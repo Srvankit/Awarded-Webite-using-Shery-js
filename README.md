@@ -5,6 +5,7 @@ A visually immersive, award-inspired website built using HTML, CSS, JavaScript, 
 This project focuses on modern UI/UX principles, motion design, and creative layout structuring to replicate the feel of award-winning web experiences.
 
 🌐 Live Preview
+https://awarded-website-using-sheryjs.netlify.app/
 
 
 📖 Project Overview
@@ -60,15 +61,6 @@ User interactions are handled efficiently through event listeners.
 5️⃣ UI Composition
 Balanced layout structuring to maintain visual harmony while integrating animation.
 
-
-📂 Project Structure
-awarded-website/
-│
-├── index.html        # Website structure
-├── style.css         # Styling and layout design
-├── script.js         # Animation logic and interactions
-└── assets/           # Images/media files
-🖥 Installation & Usage
 
 
 Clone the repository:
